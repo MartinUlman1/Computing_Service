@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdf2ae61-b69d-49d4-9513-289f68edb844" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2tRcX50sc664Vs6rQXKVKu8c4HZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ComputingServiceApplication.executor": "Run",
+    "JUnit.NumberControllerTest.testCalculate.executor": "Run",
+    "JUnit.NumberControllerTest.testCalculateEdgeCase.executor": "Run",
+    "JUnit.NumberControllerTest.testCalculateNoNumber.executor": "Run",
+    "JUnit.NumberServiceTest.testDivideByEvenCount.executor": "Run",
+    "JUnit.NumberServiceTest.testMultiplyDigits.executor": "Run",
+    "JUnit.NumberServiceTest.testProcessNumber.executor": "Run",
+    "JUnit.NumberServiceTest.testRemoveSevens.executor": "Run",
+    "JUnit.NumberServiceTest.testShiftDigits.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/ULMI/IdeaProjects/ComputingService",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.NumberControllerTest.testCalculateNoNumber">
+    <configuration name="ComputingServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.computingservice.computing_service.ComputingServiceApplication" />
+      <module name="computing-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.computingservice.computing_service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberControllerTest.testCalculate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="computing-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.computingservice.computing_service.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.computingservice.computing_service.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.computingservice.computing_service.controller.NumberControllerTest" />
+      <option name="METHOD_NAME" value="testCalculate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberControllerTest.testCalculateEdgeCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="computing-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.computingservice.computing_service.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.computingservice.computing_service.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.computingservice.computing_service.controller.NumberControllerTest" />
+      <option name="METHOD_NAME" value="testCalculateEdgeCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberControllerTest.testCalculateNoNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="computing-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.computingservice.computing_service.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.computingservice.computing_service.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.computingservice.computing_service.controller.NumberControllerTest" />
+      <option name="METHOD_NAME" value="testCalculateNoNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberServiceTest.testProcessNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="computing-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.computingservice.computing_service.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.computingservice.computing_service.service" />
+      <option name="MAIN_CLASS_NAME" value="com.computingservice.computing_service.service.NumberServiceTest" />
+      <option name="METHOD_NAME" value="testProcessNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NumberControllerTest.testCalculateNoNumber" />
+        <item itemvalue="JUnit.NumberControllerTest.testCalculateEdgeCase" />
+        <item itemvalue="JUnit.NumberControllerTest.testCalculate" />
+        <item itemvalue="Application.ComputingServiceApplication" />
+        <item itemvalue="JUnit.NumberServiceTest.testProcessNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdf2ae61-b69d-49d4-9513-289f68edb844" name="Changes" comment="" />
+      <created>1740318363151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740318363151</updated>
+    </task>
+    <servers />
+  </component>
+</project>
